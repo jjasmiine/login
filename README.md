@@ -1,3 +1,8 @@
+DEMO: https://cool-praline-471f93.netlify.app/
+
+GOAL: create a grid login page using tailwind css
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
